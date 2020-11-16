@@ -1,0 +1,23 @@
+{
+  "name": "planner.js",
+  "version": "1.0.0",
+  "description": "Test task for chaining rectangles in canvas",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LevGlushchenko/planner.js.git"
+  },
+  "keywords": [
+    "planner",
+    "js"
+  ],
+  "author": "Lev Glushchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LevGlushchenko/planner.js/issues"
+  },
+  "homepage": "https://github.com/LevGlushchenko/planner.js#readme"
+}

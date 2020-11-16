@@ -38,14 +38,14 @@ export default function onMouseMove(e) {
 
       // stop moving rect on end of canvas
       detectWalls(rect);
-
-      // detect chain of rectangles
-      detectChainings(rect);
     }
   });
 
   // detect collision of rectangles
   detectCollisions();
+
+  // detect chain of rectangles
+  detectChainings();
 
   // redraw the scene with the new rect positions
   draw();
